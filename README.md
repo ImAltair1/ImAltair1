@@ -1,8 +1,7 @@
 - I’m @ImAltair1. Currently getting licensed in Math Applied to Technology and Business in ISEL.
 - I’m interested in gaming, programming.
 - Currently learning Python, R.
-- How to reach me: 
--   Email: gonca849@gmail.com
+
 
 
 <!---
