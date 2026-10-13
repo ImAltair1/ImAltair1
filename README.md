@@ -1,4 +1,11 @@
-.
+Mainly a data scientist / engineer in Python and R, with focus on the biomedical and aerospace field, but trying to learn more things in the programming world.
+
+Currently using Project Argos as a vehicle to learn how application development actually works + learn UI with PySide6 + put my university database knowledge to use by integrating database stuff.
+
+In the future i'd like to learn some sort of web development, i've dipped my toes on HTML5 a couple of years ago but got bored of it eventually.
+
+AI is a great tool to learn if you use it correctly, but can be terrible if you just lean on it to do everything for you. Use responsibly!
+
 <!---
 - I’m @ImAltair1. Currently getting licensed in Math Applied to Technology and Business in ISEL.
 - I’m interested in gaming, programming.
