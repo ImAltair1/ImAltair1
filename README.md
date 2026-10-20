@@ -1,6 +1,6 @@
 Mainly a data scientist / engineer in Python and R, with focus on the biomedical and aerospace field, but trying to learn more things in the programming world.
 
-Currently using Project Argos as a vehicle to learn how application development actually works + learn UI with PySide6 + put my university database knowledge to use. Doing my Msc. thesis at the same time so progress will probably be done whenever i have some extra free time :)
+Currently using Project Argos as a vehicle to learn how application development actually works + learn UI with PySide6 + put my university database knowledge to use. Doing my Msc. thesis at the same time so progress will be done moreso whenever i have some extra free time :) I do plan on taking this as far as i can though!
 
 In the future i'd like to learn some sort of web development, i've dipped my toes on HTML5 a couple of years ago but got bored of it eventually.
 
